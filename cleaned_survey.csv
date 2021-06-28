@@ -1,0 +1,142 @@
+Timestamp,number_of_phones,operating_system,price_range,brand_of_phone,change_of_phone_after,use,mobile_operator,important_criteria,charge_phone_frequency,payment_method,outlet,app,app_service,check_ratings_ol,second_hand_ol,access_ol,better_offline_buy,local_or_retail,store_service,check_ratings_of,second_hand_of,access_of,better_online_buy
+2/26/2021 11:36:13,1,Android,"10,000 - 20,000",Samsung,1,"Call, Social Media, Music",Jio,Price,Once a day,UPI,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 11:46:36,2,iOS,"More than 40,000",Apple,1,"Call, SMS, Social Media",Jio,Design,Once a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Sometimes,Yes,,,,,,
+2/26/2021 11:47:45,1,Android,"20,000 - 40,000",OnePlus,1,"Call, Social Media, Music",Vi,Camera,Twice a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 11:48:44,1,Android,"20,000 - 40,000",Samsung,1,"Call, Social Media, Music",Airtel,Design,Twice a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Yes,Yes,Yes,Yes
+2/26/2021 11:50:02,1,Android,"10,000 - 20,000",Xiaomi,1,"Call, Social Media",Vi,Price,Once a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 11:50:33,1,Android,"20,000 - 40,000",Samsung,1,Social Media,Jio,Design,Once a day,Net Banking,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 11:55:23,1,Android,"20,000 - 40,000",OnePlus,3,"Call, Social Media, Music",Jio,Design,Twice a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 12:00:37,1,iOS,"10,000 - 20,000",Apple,1,"Call, Social Media, Entertainment",Vi,Specifications,More than twice a day,Cash,Nearest store to me,,,,,,,Retail chain store,No,Yes,No,Yes,Yes
+2/26/2021 12:00:37,1,Android,"10,000 - 20,000",Samsung,1,"Call, Social Media, Entertainment",Vi,Specifications,More than twice a day,Cash,Nearest store to me,,,,,,,Retail chain store,No,Yes,No,Yes,Yes
+2/26/2021 12:00:37,1,Android,"10,000 - 20,000",OnePlus,1,"Call, Social Media, Entertainment",Vi,Specifications,More than twice a day,Cash,Nearest store to me,,,,,,,Retail chain store,No,Yes,No,Yes,Yes
+2/26/2021 12:02:31,1,Android,"10,000 - 20,000",Xiaomi,3,"Call, Social Media, Music, Work",Airtel,Price,Once a day,UPI,Online,Amazon,Yes,Yes,No,No,Yes,,,,,,
+2/26/2021 12:03:34,1,Android,"10,000 - 20,000",Samsung,1,"Call, Social Media",Airtel,Price,Once a day,Cash,Online,Amazon,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 12:04:37,1,Android,"10,000 - 20,000",Samsung,2-3 Years,"Call, Social Media, Music, Work, Entertainment",Airtel,Specifications,Twice a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 12:04:37,1,Android,"10,000 - 20,000",Asus,2-3 Years,"Call, Social Media, Music, Work, Entertainment",Airtel,Specifications,Twice a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 12:05:01,1,Android,"10,000 - 20,000",Samsung,After 2-3 years,"Call, SMS, Social Media, Music",Vi,Specifications,Once a day,UPI,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 12:05:01,1,Android,"10,000 - 20,000",Xiaomi,After 2-3 years,"Call, SMS, Social Media, Music",Vi,Specifications,Once a day,UPI,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 12:05:01,1,Android,"10,000 - 20,000",Tecno,After 2-3 years,"Call, SMS, Social Media, Music",Vi,Specifications,Once a day,UPI,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 12:07:50,1,Android,"10,000 - 20,000",Samsung,2-3 years,"Call, Social Media, Music",Jio,Design,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,Yes,Yes,Yes
+2/26/2021 12:09:57,2,Android,"10,000 - 20,000",Samsung,3 to 4 years,"Call, Social Media, Music",Vi,Value for money,Once a day,UPI,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 12:11:40,More,iOS,"10,000 - 20,000",Apple,1,"Call, SMS, Social Media, Music",Airtel,Brand,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 12:11:40,More,Android,"10,000 - 20,000",Xiaomi,1,"Call, SMS, Social Media, Music",Airtel,Brand,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 12:11:40,More,Android,"10,000 - 20,000",Samsung,1,"Call, SMS, Social Media, Music",Airtel,Brand,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 12:12:07,1,Android,"10,000 - 20,000",Asus,2 years,"Call, SMS, Social Media, Music",Vi,Camera,Twice a day,UPI,Online,Flipkart,Yes,Yes,No,Sometimes,Yes,,,,,,
+2/26/2021 12:23:33,1,Android,"10,000 - 20,000",Samsung,After 3 years,"Call, SMS, Social Media, Music",Vi,Price,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Sometimes,No,Yes,No
+2/26/2021 12:24:31,1,Android,"10,000 - 20,000",Motorola,3-4 yrs,Entertainment,Vi,Specifications,Twice a day,Net Banking,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 12:26:26,1,Android,"20,000 - 40,000",Samsung,When it gets completely broken.,"Social Media, Music",Jio,Price,Once a day,Net Banking,Online,Amazon,Yes,Yes,Maybe,Yes,Yes,,,,,,
+2/26/2021 12:29:43,1,Android,"10,000 - 20,000",Oppo,After 3 years,"Call, SMS, Social Media, Music, Entertainment",Airtel,Brand,Twice a day,Cash,Online,Flipkart,Yes,Yes,No,Sometimes,Yes,,,,,,
+2/26/2021 12:31:37,1,Android,"10,000 - 20,000",Samsung,3years,Social Media,Vi,Specifications,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 12:36:17,1,Android,"10,000 - 20,000",Xiaomi,1,"Call, Social Media, Music",Airtel,Price,Once a day,Debit Card/ Credit Card,Online,Flipkart,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 12:50:00,1,Android,"10,000 - 20,000",Redmi,After 2 years,"Call, Social Media, Music, Work",Airtel,Price,Twice a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 12:50:00,1,Android,"10,000 - 20,000",OnePlus,After 2 years,"Call, Social Media, Music, Work",Airtel,Price,Twice a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 12:50:00,1,Android,"10,000 - 20,000",Samsung,After 2 years,"Call, Social Media, Music, Work",Airtel,Price,Twice a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 13:05:32,1,Android,"10,000 - 20,000",Realme,After 6 months,"Call, Social Media, Music",Vi,Camera,Twice a day,Net Banking,Online,Amazon,Yes,Yes,Maybe,Sometimes,Yes,,,,,,
+2/26/2021 13:39:04,1,Android,"10,000 - 20,000",Vivo,1,"Call, SMS, Social Media, Music",Vi,Camera,Once a day,Cash,Online,Flipkart,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 13:39:04,1,Android,"10,000 - 20,000",Xiaomi,1,"Call, SMS, Social Media, Music",Vi,Camera,Once a day,Cash,Online,Flipkart,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 13:39:04,1,Android,"10,000 - 20,000",OnePlus,1,"Call, SMS, Social Media, Music",Vi,Camera,Once a day,Cash,Online,Flipkart,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 13:42:17,1,Android,"20,000 - 40,000",Samsung,1,"Call, Social Media, Music",Jio,Brand,Once a day,Cash,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 13:48:19,1,iOS,"20,000 - 40,000",Apple,After 5 years,"Call, Social Media, Music",Vi,Specifications,Twice a day,UPI,Online,Amazon,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 13:48:19,1,Android,"20,000 - 40,000",Samsung,After 5 years,"Call, Social Media, Music",Vi,Specifications,Twice a day,UPI,Online,Amazon,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 13:49:06,1,Android,"10,000 - 20,000",Xiaomi,3-4 years,"Call, SMS, Social Media, Music",Airtel,Specifications,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,Yes,Yes,Yes
+2/26/2021 13:52:45,1,Android,"10,000 - 20,000",Xiaomi,2 years,"Call, Social Media, Music",Vi,Value for money,Once a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,No,Yes,,,,,,
+2/26/2021 13:55:11,1,Android,"10,000 - 20,000",Samsung,Until it stops working,"Call, Social Media, Music",Jio,Brand,More than twice a day,Net Banking,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Maybe
+2/26/2021 13:55:16,3,iOS,"10,000 - 20,000",Apple,1,"Call, SMS, Social Media, Music",Vi,Design,Once a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 13:55:16,3,Android,"10,000 - 20,000",OnePlus,1,"Call, SMS, Social Media, Music",Vi,Design,Once a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 13:55:16,3,Android,"10,000 - 20,000",Xiaomi,1,"Call, SMS, Social Media, Music",Vi,Design,Once a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 14:00:57,1,iOS,"More than 40,000",Apple,About 2 years,"Call, SMS, Social Media, Music, Work ",Vi,Price,Once a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 14:16:14,1,Android,"10,000 - 20,000",Samsung,2½ years,"SMS, Music, Entertainment",Jio,Specifications,Once a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Maybe
+2/26/2021 14:17:03,1,Android,"20,000 - 40,000",OnePlus,Only if it is damaged ,"Call, SMS, Social Media, Music",Jio,Camera,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,No
+2/26/2021 14:27:59,More,Android,"10,000 - 20,000",Samsung,1,Social Media,Jio,Specifications,Once a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,No,Yes
+2/26/2021 14:27:59,More,Android,"10,000 - 20,000",OnePlus,1,Social Media,Jio,Specifications,Once a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,No,Yes
+2/26/2021 14:27:59,More,Android,"10,000 - 20,000",Xiaomi,1,Social Media,Jio,Specifications,Once a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,No,Yes
+2/26/2021 14:27:59,More,Android,"10,000 - 20,000",Vivo,1,Social Media,Jio,Specifications,Once a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,No,Yes
+2/26/2021 14:36:27,1,Android,"20,000 - 40,000",OnePlus,1&1/2,"Call, SMS, Social Media, Music, Entertainment",Vi,Camera,Twice a day,UPI,Nearest store to me,,,,,,,Local,Yes,Yes,Yes,Yes,Yes
+2/26/2021 14:40:03,2,Android,"20,000 - 40,000",OnePlus,1,"Call, Social Media",Jio,Specifications,Once a day,UPI,Nearest store to me,,,,,,,Local,No,Yes,Maybe,Yes,Yes
+2/26/2021 14:40:03,2,Android,"20,000 - 40,000",Realme,1,"Call, Social Media",Jio,Specifications,Once a day,UPI,Nearest store to me,,,,,,,Local,No,Yes,Maybe,Yes,Yes
+2/26/2021 14:41:22,1,Android,"20,000 - 40,000",Oppo,4-5 years,"Call, Social Media, Music",Jio,Camera,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,No,Sometimes,Yes
+2/26/2021 14:49:52,1,Android,"20,000 - 40,000",Oppo,1,Social Media,Jio,Design,Twice a day,UPI,Nearest store to me,,,,,,,Local,Yes,Sometimes,No,No,Yes
+2/26/2021 14:51:23,1,Android,"10,000 - 20,000",Samsung,2 years,"Call, SMS, Social Media, Music",Jio,Camera,More than twice a day,Cash,Online,Amazon,Yes,Yes,No,No,Yes,,,,,,
+2/26/2021 14:51:23,1,Android,"10,000 - 20,000",Xiaomi,2 years,"Call, SMS, Social Media, Music",Jio,Camera,More than twice a day,Cash,Online,Amazon,Yes,Yes,No,No,Yes,,,,,,
+2/26/2021 14:52:03,1,iOS,"10,000 - 20,000",Apple,2-3 years,"Call, SMS, Social Media, Music, Work",Vi,Brand,More than twice a day,Net Banking,Online,Amazon,Yes,Yes,Maybe,No,No,,,,,,
+2/26/2021 14:52:03,1,Android,"10,000 - 20,000",Xiaomi,2-3 years,"Call, SMS, Social Media, Music, Work",Vi,Brand,More than twice a day,Net Banking,Online,Amazon,Yes,Yes,Maybe,No,No,,,,,,
+2/26/2021 14:52:03,1,Android,"10,000 - 20,000",Samsung,2-3 years,"Call, SMS, Social Media, Music, Work",Vi,Brand,More than twice a day,Net Banking,Online,Amazon,Yes,Yes,Maybe,No,No,,,,,,
+2/26/2021 14:52:27,1,iOS,"10,000 - 20,000",Apple,2 years ,"Call, SMS, Social Media, Music",Vi,Price,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,No,No,Yes,No
+2/26/2021 14:54:08,1,Android,"More than 40,000",Motorola,18-24 months,"Call, SMS, Social Media, Music, Work",Airtel,Brand,Once a day,Debit Card/ Credit Card,Online,Flipkart,Yes,Sometimes,No,Sometimes,Yes,,,,,,
+2/26/2021 14:57:34,2,Android,"10,000 - 20,000",Samsung,As long as it works just fine,"Call, SMS, Social Media",Vi,Price,Once a day,Net Banking,Nearest store to me,,,,,,,Retail chain store,Yes,Sometimes,No,Yes,Maybe
+2/26/2021 14:58:01,1,Android,"10,000 - 20,000",Samsung,After 6 months,"Call, SMS, Social Media",Jio,Brand ,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 14:58:01,1,Android,"10,000 - 20,000",Vivo,After 6 months,"Call, SMS, Social Media",Jio,Brand ,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 15:00:09,More,iOS,"10,000 - 20,000",Apple,More than 2 years,"Call, SMS",Jio,Specifications,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,Maybe,Yes,Yes
+2/26/2021 15:00:09,More,Android,"10,000 - 20,000",Samsung,More than 2 years,"Call, SMS",Jio,Specifications,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,Maybe,Yes,Yes
+2/26/2021 15:04:49,3,Android,"20,000 - 40,000",Samsung,1,"Call, SMS, Social Media, Music",Jio,Brand,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 15:04:49,3,iOS,"20,000 - 40,000",Apple,1,"Call, SMS, Social Media, Music",Jio,Brand,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 15:17:59,More,iOS,"More than 40,000",Apple,After 5-6 yrs ,"Call, SMS, Social Media, Music",Jio,After sales service,More than twice a day,UPI,Shopping malls,,,,,,,Retail chain store,Yes,Yes,Maybe,Sometimes,Maybe
+2/26/2021 15:17:59,More,Android,"More than 40,000",OnePlus,After 5-6 yrs ,"Call, SMS, Social Media, Music",Jio,After sales service,More than twice a day,UPI,Shopping malls,,,,,,,Retail chain store,Yes,Yes,Maybe,Sometimes,Maybe
+2/26/2021 15:28:34,1,Android,"5000 - 10,000",Vivo,After first get damaged ,"Call, Social Media",Vi,Price,Twice a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Sometimes,No,Sometimes,Maybe
+2/26/2021 15:39:04,1,Android,"20,000 - 40,000",Honor,3 to 3.5 years,"Call, Social Media, Music",Airtel,Brand,Twice a day,UPI,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 15:39:55,1,Android,"10,000 - 20,000",Asus,4-5 years,Entertainment,Airtel,Brand,Once a day,Cash,Online,Flipkart,No,Yes,No,No,Yes,,,,,,
+2/26/2021 15:40:29,1,Android,"10,000 - 20,000",Redmi,5-6yrs,Call,Jio,Price,Once a day,UPI,Shopping malls,,,,,,,Retail chain store,No,Yes,No,Yes,Maybe
+2/26/2021 15:41:33,1,Android,"10,000 - 20,000",Samsung,2 years,Social Media,Vi,Price,Twice a day,Cash,Nearest store to me,,,,,,,Local,Yes,Sometimes,No,Yes,Maybe
+2/26/2021 15:41:57,1,Android,"10,000 - 20,000",Asus,3-4,"Social Media, Music",Jio,"Price, Brand, Specifications",Once a day,Debit Card/ Credit Card,Online,Flipkart,Yes,Yes,No,Sometimes,Yes,,,,,,
+2/26/2021 15:43:38,1,Android,"10,000 - 20,000",Samsung,2-3 years,Social Media,Airtel,Camera,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,No,Sometimes,Yes
+2/26/2021 15:44:36,1,Android,"10,000 - 20,000",Samsung,2 to 3 years,"Call, Social Media, Entertainment",Airtel,Specifications,More than twice a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 15:46:25,1,Android,"More than 40,000",OnePlus,3 years and still using the same phone 😭😭😭,"Call, Social Media, Music",Vi,Specifications,Twice a day,Cash,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,Maybe,Yes,Yes
+2/26/2021 15:53:20,2,Android,"More than 40,000",OnePlus,2 years,"Call, Social Media, Music",Airtel,Design,Twice a day,UPI,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 15:53:20,2,iOS,"More than 40,000",Apple,2 years,"Call, Social Media, Music",Airtel,Design,Twice a day,UPI,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,Yes,Yes
+2/26/2021 16:00:32,1,Android,"10,000 - 20,000",Samsung,1,Social Media,Jio,Price,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 16:10:26,1,Android,"10,000 - 20,000",Xiaomi,After 2 or 2.5 years,"Call, Social Media, Music",Jio,Price,Once a day,Net Banking,Online,Flipkart,Yes,Yes,Maybe,No,Yes,,,,,,
+2/26/2021 16:12:56,1,Android,"10,000 - 20,000",Xiaomi,After 3 years,"Call, Social Media, Music",Vi,Camera,Twice a day,Net Banking,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 16:13:58,1,Android,"10,000 - 20,000",Xiaomi,1,"Call, SMS, Social Media, Music",Vi,Specifications,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 16:21:53,1,Android,"10,000 - 20,000",Realme,1,"Call, Social Media",Vi,Price,Once a day,Debit Card/ Credit Card,Online,Flipkart,Yes,Yes,Yes,No,Yes,,,,,,
+2/26/2021 16:23:33,1,Android,"5000 - 10,000",Samsung,3-4 years,"Call, Social Media, Music",Jio,Camera,Twice a day,Cash,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Maybe
+2/26/2021 16:25:52,1,Android,"10,000 - 20,000",Samsung,1,Call,Airtel,Brand,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,No,No,Yes,No
+2/26/2021 16:35:20,1,Android,"10,000 - 20,000",Vivo,1,Call,MTNL,Camera,Once a day,Net Banking,Nearest store to me,,,,,,,Local,Yes,Sometimes,Maybe,No,Yes
+2/26/2021 16:37:17,More,iOS,"More than 40,000",Apple,After 5-6 yrs ,"Call, SMS, Social Media, Music",Jio,After sales service ,More than twice a day,UPI,Shopping malls,,,,,,,Retail chain store,No,Yes,Maybe,Sometimes,Maybe
+2/26/2021 16:37:17,More,Android,"More than 40,000",OnePlus,After 5-6 yrs ,"Call, SMS, Social Media, Music",Jio,After sales service ,More than twice a day,UPI,Shopping malls,,,,,,,Retail chain store,No,Yes,Maybe,Sometimes,Maybe
+2/26/2021 16:44:29,2,Android,"More than 40,000",Samsung,Every Two Years,"Call, SMS, Social Media, Work",Airtel,Brand,Twice a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 16:44:29,2,iOS,"More than 40,000",Apple,Every Two Years,"Call, SMS, Social Media, Work",Airtel,Brand,Twice a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,Yes,No
+2/26/2021 16:59:41,1,Android,"10,000 - 20,000",Realme,2 years,"Call, SMS, Social Media, Music",Jio,Price,Twice a day,UPI,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 17:00:53,1,Android,"20,000 - 40,000",OnePlus,After existing one is not working,"Call, SMS, Social Media, Music",Airtel,"Price, Camera, Brand, Design",Twice a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Retail chain store,Yes,Sometimes,Maybe,No,Yes
+2/26/2021 17:04:26,1,Android,"10,000 - 20,000",Xiaomi,1,"Call, Social Media",Jio,Camera,Once a day,Net Banking,Online,Flipkart,Yes,Yes,No,No,Maybe,,,,,,
+2/26/2021 17:06:06,1,Android,"20,000 - 40,000",Vivo,1,"Call, SMS, Social Media, Music",Airtel,Camera,Once a day,UPI,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,No
+2/26/2021 17:07:13,1,Android,"10,000 - 20,000",Samsung,1,Call,Jio,Brand,Once a day,Net Banking,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,No,Yes
+2/26/2021 17:09:29,2,Android,"10,000 - 20,000",Samsung,After earlier phone stop working. ,"Call, SMS, Social Media",MTNL,Price,Once a day,Net Banking,Online,Flipkart,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 17:09:29,2,Android,"10,000 - 20,000",Xiaomi,After earlier phone stop working. ,"Call, SMS, Social Media",MTNL,Price,Once a day,Net Banking,Online,Flipkart,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 17:09:51,1,Android,"10,000 - 20,000",Vivo,After 3-4 years,"Call, SMS, Social Media, Music, Work",Vi,Design,More than twice a day,UPI,Nearest store to me,,,,,,,Local,Yes,Sometimes,Maybe,Sometimes,Yes
+2/26/2021 17:10:36,3,iOS,"More than 40,000",Apple,1,Social Media,Jio,Camera,Once a day,UPI,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 17:10:36,3,Android,"More than 40,000",OnePlus,1,Social Media,Jio,Camera,Once a day,UPI,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 17:10:36,3,Android,"More than 40,000",Samsung,1,Social Media,Jio,Camera,Once a day,UPI,Online,Amazon,Yes,Yes,No,Yes,Yes,,,,,,
+2/26/2021 17:13:12,2,Android,"10,000 - 20,000",Samsung,1,"Call, SMS, Social Media",Vi,Design,Twice a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,Maybe,Yes,Maybe
+2/26/2021 17:13:12,2,Android,"10,000 - 20,000",Xiaomi,1,"Call, SMS, Social Media",Vi,Design,Twice a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,Maybe,Yes,Maybe
+2/26/2021 17:31:52,1,Android,"10,000 - 20,000",Oppo,Not untill necessary,"Call, SMS, Social Media, Music",Jio,Brand,Once a day,UPI,Online,Amazon,Yes,Yes,Yes,Yes,Yes,,,,,,
+2/26/2021 17:45:08,1,Android,"10,000 - 20,000",Samsung,1,Call,Vi,Price,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,No
+2/26/2021 17:54:11,1,Android,"5000 - 10,000",Samsung,1,"Call, Social Media, Music",Airtel,Price,Twice a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Maybe
+2/26/2021 17:56:37,1,Android,"10,000 - 20,000",Vivo,After two years ,"Call, Social Media, Music",Vi,Price,Twice a day,Net Banking,Nearest store to me,,,,,,,Local,Yes,Sometimes,No,Yes,No
+2/26/2021 18:34:44,1,Android,"10,000 - 20,000",Vivo,1,"Call, SMS, Social Media, Music",Jio,Design,Once a day,UPI,Nearest store to me,,,,,,,Local,Yes,Sometimes,No,Yes,Maybe
+2/26/2021 18:40:55,1,Android,"5000 - 10,000",Xiaomi,After it stop working,"Call, Social Media, Music, Work",Airtel,Brand,Twice a day,Cash,Online,Flipkart,Yes,Yes,No,No,Yes,,,,,,
+2/26/2021 18:51:53,2,Android,"More than 40,000",Samsung,After 2 years,"Call, Social Media, Work",Jio,Brand,Once a day,Cash,Shopping malls,,,,,,,Retail chain store,Yes,Yes,No,Sometimes,Maybe
+2/26/2021 18:59:16,1,Android,"10,000 - 20,000",Realme,When it's get damaged. ,"Call, SMS, Social Media, Music",Vi,Price,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 19:05:31,1,Android,"20,000 - 40,000",Realme,3 years,"Call, SMS, Social Media, Music, Entertainment",Airtel,Price,Twice a day,UPI,Online,Amazon,Yes,Yes,No,Sometimes,Yes,,,,,,
+2/26/2021 19:31:58,1,iOS,"More than 40,000",Apple,3,"Call, SMS, Social Media",Vi,Brand,Once a day,Debit Card/ Credit Card,Shopping malls,,,,,,,Local,Yes,Sometimes,No,Yes,Yes
+2/26/2021 19:38:08,1,Android,"10,000 - 20,000",Xiaomi,After 3 or 4 years,"Call, SMS, Social Media, Music, Entertainment",Jio,Specifications,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,Maybe,Yes,Yes
+2/26/2021 19:38:26,1,Android,"10,000 - 20,000",Xiaomi,Aftef 4-5 years,"Call, SMS, Social Media, Music",Vi,Camera,Twice a day,UPI,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Yes
+2/26/2021 19:59:20,1,Android,"20,000 - 40,000",OnePlus,After 5 years ,"Call, SMS, Social Media, Music",Airtel,Specifications,Twice a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,Maybe
+2/26/2021 20:04:59,1,Android,"10,000 - 20,000",Samsung,1,"Call, Social Media",Jio,Specifications,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Maybe
+2/26/2021 20:04:59,1,Android,"10,000 - 20,000",Xiaomi,1,"Call, Social Media",Jio,Specifications,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Maybe
+2/26/2021 20:17:31,1,Android,"More than 40,000",Samsung,1,"Call, SMS, Social Media, Music",Vi,Design,Once a day,UPI,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,No,Yes,Maybe
+2/26/2021 20:22:23,1,Android,"10,000 - 20,000",Samsung,I don't change the phone as long as it functions perfectly.,"Call, Social Media, Music",Airtel,Camera,Once a day,UPI,Online,Amazon,Yes,Yes,Maybe,Yes,Yes,,,,,,
+2/26/2021 20:22:47,1,Android,"10,000 - 20,000",Samsung,After 3-4 years,Social Media,Airtel,Brand,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,Maybe,No,Maybe
+2/26/2021 20:35:49,1,iOS,"More than 40,000",Apple,After 6 months,"Call, SMS, Social Media, Music",Airtel,Camera,More than twice a day,Cash,Nearest store to me,,,,,,,Retail chain store,Yes,No,Maybe,Sometimes,Yes
+2/26/2021 20:59:01,2,Android,"More than 40,000",Samsung,1,"Call, SMS, Social Media, Music",Vi,Design,Twice a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,No
+2/26/2021 21:03:03,1,Android,"5000 - 10,000",Motorola,2,Social Media,Airtel,Brand,Once a day,Cash,Nearest store to me,,,,,,,Retail chain store,Yes,Yes,Yes,Yes,Yes
+2/26/2021 21:08:02,2,Android,"10,000 - 20,000",Vivo,After the current one is get disfunctioning ,"Call, SMS, Social Media",MTNL,Price,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,No,Sometimes,Maybe
+2/26/2021 21:08:02,2,Android,"10,000 - 20,000",Asus,After the current one is get disfunctioning ,"Call, SMS, Social Media",MTNL,Price,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,No,Sometimes,Maybe
+2/26/2021 21:23:05,2,Android,"10,000 - 20,000",Vivo,Three,Call,Airtel,Camera,Once a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,Yes,Yes,Yes
+2/26/2021 21:48:02,1,Android,"10,000 - 20,000",Xiaomi,2 yrs,"Call, Social Media, Music",Jio,Price,Twice a day,Debit Card/ Credit Card,Online,Amazon,Yes,Sometimes,No,Yes,Yes,,,,,,
+2/26/2021 21:55:28,1,Android,"10,000 - 20,000",Samsung,1,Social Media,Jio,Brand,Twice a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,Yes,Sometimes,No
+2/26/2021 21:55:44,1,Android,"10,000 - 20,000",Samsung,1,Social Media,Jio,Brand,Twice a day,Cash,Nearest store to me,,,,,,,Local,Yes,Yes,Yes,Sometimes,No
+2/26/2021 23:19:06,1,Android,"10,000 - 20,000",Samsung,Once its stop working ,Call,Vi,Design,Once a day,Debit Card/ Credit Card,Online,Amazon,Yes,Yes,No,No,Yes,,,,,,
+2/27/2021 8:33:39,1,Android,"10,000 - 20,000",Vivo,After 3 years,"Call, Music",Vi,Design,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Yes,No,Yes,No
+2/27/2021 8:38:54,1,Android,"20,000 - 40,000",OnePlus,1,"Call, SMS, Social Media, Music",Jio,Camera,Once a day,Cash,Online,Amazon,Yes,Yes,Yes,No,Yes,,,,,,
+2/27/2021 10:41:33,1,iOS,"More than 40,000",Apple,5-6 year,"Call, SMS, Social Media, Music",Airtel,Price,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Sometimes,Maybe,Yes,Maybe
+2/27/2021 10:41:33,1,Android,"More than 40,000",Samsung,5-6 year,"Call, SMS, Social Media, Music",Airtel,Price,Once a day,Debit Card/ Credit Card,Nearest store to me,,,,,,,Local,Yes,Sometimes,Maybe,Yes,Maybe
